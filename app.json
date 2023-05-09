@@ -9,7 +9,7 @@
   "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
   "logo": "https://ibb.co/FgPVtzw",
   "env": {
-    "TG_BOT_TOKEN": {45
+    "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
       "value": "6183426941:AAEMRwdGrGo56MQg3bLVVgWZr7uID4qlUiI"
     },
